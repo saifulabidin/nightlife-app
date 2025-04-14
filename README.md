@@ -28,7 +28,7 @@ A full-stack JavaScript application that helps users coordinate their nightlife 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/saifulabidin/nightlife-app.git
    cd nightlife-app
    ```
 
