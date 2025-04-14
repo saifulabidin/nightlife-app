@@ -2,6 +2,8 @@
 
 A full-stack JavaScript application that helps users coordinate their nightlife activities. Users can search for bars in their area, indicate which bars they plan to visit, and see who else is going.
 
+[🔗 Live Demo]([https://weather-checker-eu.netlify.app/](https://nightlife-app-production.up.railway.app/))
+
 ## Features
 
 - Search bars in any area using Foursquare API
